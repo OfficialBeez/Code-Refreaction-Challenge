@@ -27,7 +27,9 @@ THEN I find a concise, descriptive title
 ## Review
 - - -
 
-Project made by : Jeffery Kon
+Depoloyed Page : https://officialbeez.github.io/Code-Refreaction-Challenge/
+
+Project made by : Jeffery Koon
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
