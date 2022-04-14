@@ -5,7 +5,7 @@ This was a code refreactor for the demo website Horiseon.
 ## Deployment
 
 Deployment of the Website can be found :
-<br> https://officialbeez.github.io/Code-Refreaction-Challenge/
+<br> https://officialbeez.github.io/Horiseon-Demo/
 
 
 ### Screenshot
